@@ -17,3 +17,10 @@ kroman.parse("손목시계")
 
 Install it with npm:
 
+```
+npm install kroman
+```
+
+## Contribution
+
+Any contribution is welcome.

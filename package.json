@@ -8,7 +8,7 @@
     "kroman",
     "hangul"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": {
     "name": "Horry Zhang",
@@ -19,5 +19,6 @@
     "type": "git",
     "url": "https://github.com/cheunghy/kroman-js"
   },
-  "homepage": "https://github.com/cheunghy/kroman-js"
+  "homepage": "https://github.com/cheunghy/kroman-js",
+  "main": "./kroman.js"
 }

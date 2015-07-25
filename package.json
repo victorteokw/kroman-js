@@ -1,0 +1,23 @@
+{
+  "name": "kroman",
+  "title": "Kroman hangul romanization",
+  "description": "Kroman is a tool for romanizating Korean hanguls. It works in both server and frontend.",
+  "keywords": [
+    "korean",
+    "CJK",
+    "kroman",
+    "hangul"
+  ],
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Horry Zhang",
+    "url": "http://www.cheunghoiyu.com",
+    "email": "yeannylam@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cheunghy/kroman-js"
+  },
+  "homepage": "https://github.com/cheunghy/kroman-js"
+}
